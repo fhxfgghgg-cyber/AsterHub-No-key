@@ -1,5 +1,3 @@
-setclipboard("https://discord.gg/cn6PyydNG")
-
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
 TweenService = game:GetService("TweenService")
